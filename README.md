@@ -37,7 +37,7 @@ huggingface-cli download Qwen/Qwen2.5-0.5B-Instruct --local-dir . --local-dir-us
 ## Usage
 1. Run the program:
 ```sh
-python3 test.py
+python3 main.py
 ```
 
 2. Enter your message at the prompt (multi-line input supported)
