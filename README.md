@@ -31,7 +31,7 @@ pip3 install -U "huggingface_hub[cli]"
 
 4. Download the model:
 ```sh
-huggingface-cli download Qwen/Qwen2.5-0.5B-Instruct --local-dir . --local-dir-use-symlinks False
+huggingface-cli download Qwen/Qwen2.5-0.5B-Instruct --local-dir ./Qwen2.5-0.5B-Instruct --local-dir-use-symlinks False
 ```
 
 ## Usage
